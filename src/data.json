@@ -2,7 +2,7 @@
     {
         "id":"id1",
         "title":"menitor",
-        "imageUrl":"../public/images/product1.jpg",
+        "imageUrl":"/images/product1.jpg",
         "desc":"this is product 1",
         "price":100,
         "sizes":["S","M"]
@@ -10,7 +10,7 @@
     {
         "id":"id2",
         "title":"dvd",
-        "imageUrl":"../public/images/product2.jpg",
+        "imageUrl":"/images/product2.jpg",
         "desc":"this is product 2",
         "price":55,
         "sizes":["S","M"]
@@ -18,7 +18,7 @@
     {
         "id":"id3",
         "title":"labtop",
-        "imageUrl":"../public/images/product3.jpg",
+        "imageUrl":"/images/product3.jpg",
         "desc":"this is product 3",
         "price":150,
         "sizes":["S","L"]
@@ -26,17 +26,9 @@
     {
         "id":"id4",
         "title":"camera",
-        "imageUrl":"../public/images/product4.jpg",
+        "imageUrl":"/images/product4.jpg",
         "desc":"this is product 4",
         "price":200,
         "sizes":["XL","M"]
-    },
-    {
-        "id":"id5",
-        "title":"watch",
-        "imageUrl":"../public/images/product5.jpg",
-        "desc":"this is product 5",
-        "price":222,
-        "sizes":["XL","M","L"]
     }
 ]
